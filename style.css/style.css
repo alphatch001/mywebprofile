@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+    max-width: 900px;
+}
+.center {
+    text-align: center;
+    margin-left: -300px;
+    position: relative;
+}
+
+.all {
+    margin-left: 400px;
+    padding-left: 300px;
+    width: 300px;
+    background-color: bisque;
+}
